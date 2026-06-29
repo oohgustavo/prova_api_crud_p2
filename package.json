@@ -1,0 +1,15 @@
+{
+  "name": "crud-fornecedores",
+  "version": "1.0.0",
+  "description": "API CRUD de Fornecedores",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
